@@ -6,18 +6,19 @@ Time spent: 10 hours spent in total
 
 Completed user stories:
 
- * [x] Required: User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously.
- * [x] Required: User can view movie details by tapping on a cell
- * [x] Required: User sees loading state while waiting for movies API. 
- * [x] Required: User sees error message when there's a networking error. You may not use UIAlertView to display the error. 
- * [x] Required: User can pull to refresh the movie list.
- * [ ] Optional: All images fade in 
- * [x] Optional: For the large poster, load the low-res image first, switch to high-res when complete
- * [ ] Optional: All images should be cached in memory and disk. In other words, images load immediately upon cold start 
- * [ ] Optional: Customize the highlight and selection effect of the cell
- * [ ] Optional: Customize the navigation bar
- * [ ] Optional: Add a tab bar for Box Office and DVD
- * [ ] Optional: Add a search bar
+ * [ ] Required: Table rows should be dynamic height according to the content height
+ * [ ] Required: Custom cells should have the proper Auto Layout constraints
+ * [ ] Required: Search bar should be in the navigation bar 
+ * [ ] Required: Filters: category, sort (best match, distance, highest rated), radius (meters), deals (on/off)
+ * [ ] Required: The filters table should be organized into sections
+ * [ ] Required: UISwitch for on/off states
+ * [ ] Required: Radius filter should expand
+ * [ ] Required: Categories should show a subset of the full list with a "See All" row to expand
+ * [ ] Required: Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings hello
+ * [ ] Optional: infinite scroll for restaurant results
+ * [ ] Optional: Implement map view of restaurant results
+ * [ ] Optional: implement a custom switch
+ * [ ] Optional: Implement the restaurant detail page 
 
 Walkthrough:
 
