@@ -4,9 +4,9 @@ Time spent: 10 hours spent in total
 
 Completed user stories:
 
- * [ ] Required: Table rows should be dynamic height according to the content height
- * [ ] Required: Custom cells should have the proper Auto Layout constraints
- * [ ] Required: Search bar should be in the navigation bar 
+ * [x] Required: Table rows should be dynamic height according to the content height
+ * [x] Required: Custom cells should have the proper Auto Layout constraints
+ * [x] Required: Search bar should be in the navigation bar 
  * [ ] Required: Filters: category, sort (best match, distance, highest rated), radius (meters), deals (on/off)
  * [ ] Required: The filters table should be organized into sections
  * [ ] Required: UISwitch for on/off states
